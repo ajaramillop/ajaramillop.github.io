@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-19T18:19:20-04:00</updated><id>http://localhost:4000/</id><title type="html">Titulo</title><subtitle>Blog personal</subtitle><author><name>Alfonso Jaramillo Pischedda</name></author><entry><title type="html">Pagina de ejemplo</title><link href="http://localhost:4000/pagina-ejemplo/" rel="alternate" type="text/html" title="Pagina de ejemplo" /><published>2020-08-19T00:00:00-04:00</published><updated>2020-08-19T00:00:00-04:00</updated><id>http://localhost:4000/pagina-ejemplo</id><content type="html" xml:base="http://localhost:4000/pagina-ejemplo/">&lt;p&gt;ver como usar markdown in &lt;a href=&quot;https://markdown.es/sintaxis-markdown/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/y6XdzBNC0_0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;título&quot;&gt;Título&lt;/h2&gt;
+&lt;h3 id=&quot;subtítulo&quot;&gt;Subtítulo&lt;/h3&gt;
+&lt;p&gt;Este es un ejemplo de texto que da entrada a una lista genérica de elementos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Elemento 1&lt;/li&gt;
+  &lt;li&gt;Elemento 2&lt;/li&gt;
+  &lt;li&gt;Elemento 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Este es un ejemplo de texto que da entrada a una lista numerada:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Elemento 1&lt;/li&gt;
+  &lt;li&gt;Elemento 2&lt;/li&gt;
+  &lt;li&gt;Elemento 3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Al texto en Markdown puedes añadirle formato como &lt;strong&gt;negrita&lt;/strong&gt; o &lt;em&gt;cursiva&lt;/em&gt; de una manera muy sencilla.&lt;/p&gt;
+
+&lt;p&gt;Citas&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Listas&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Elemento de lista 1&lt;/li&gt;
+  &lt;li&gt;Elemento de lista 2&lt;/li&gt;
+  &lt;li&gt;Elemento de lista 3&lt;/li&gt;
+  &lt;li&gt;Elemento de lista 4&lt;/li&gt;
+  &lt;li&gt;Elemento de lista 5&lt;/li&gt;
+  &lt;li&gt;Elemento de lista 6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Elemento de lista 1&lt;/li&gt;
+  &lt;li&gt;Elemento de lista 2
+    &lt;ul&gt;
+      &lt;li&gt;Elemento de lista 3&lt;/li&gt;
+      &lt;li&gt;Elemento de lista 4
+        &lt;ol&gt;
+          &lt;li&gt;Elemento de lista 5&lt;/li&gt;
+          &lt;li&gt;Elemento de lista 6&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Alfonso Jaramillo Pischedda</name></author><category term="Tag1" /><category term="Tag2" /><category term="Tag3" /><summary type="html">Estos son algunos ejemplos de como usar markdown</summary></entry></feed>

@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Quien soy"
+    url: /quien-soy/
+  - title: "Blog"
+    url: /blog-tiempo/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
