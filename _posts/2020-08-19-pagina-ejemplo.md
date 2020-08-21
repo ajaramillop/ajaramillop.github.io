@@ -11,7 +11,7 @@ toc_icon: "fast-forward"
 ---
 
 
-ver como usar markdown in [link](https://markdown.es/sintaxis-markdown/)
+ver como usar markdown en [link](https://markdown.es/sintaxis-markdown/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y6XdzBNC0_0" frameborder="0" allowfullscreen></iframe>
 
